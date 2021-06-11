@@ -55,6 +55,9 @@ _Me llamo Maximiliano Cortes y mis amigos me dicen Hoffy, soy de Santiago, Chile
 <!-- Linux -->
 <img align="left" alt="linux" width="26px" src="./icons/linux.png">
 
+<!-- Angular -->
+<img align="left" alt="angular" width="26px" src="./icons/angular.png">
+
 <br></br>
 
 ## Contactame
