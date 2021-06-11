@@ -29,7 +29,7 @@ _Me llamo Maximiliano Cortes y mis amigos me dicen Hoffy, soy de Santiago, Chile
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 <!-- Express -->
-<img aling="left" alt="Express" width="26px" src="./icons/express.png">
+<img align="left" alt="Express" width="26px" src="./icons/express.png">
 
 <!-- MongoDB -->
 <img align="left" alt="MongoDB" width="26px" src="./icons/mongodb.png" />
@@ -47,13 +47,13 @@ _Me llamo Maximiliano Cortes y mis amigos me dicen Hoffy, soy de Santiago, Chile
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <!-- Prestashop -->
-<img aling="left" alt="prestashop" width="26px" src="./icons/prestashop.png">
+<img align="left" alt="prestashop" width="26px" src="./icons/prestashop.png">
 
 <!-- Windows -->
-<img aling="left" alt="windows" width="26px" src="./icons/windows.png">
+<img align="left" alt="windows" width="26px" src="./icons/windows.png">
 
 <!-- Linux -->
-<img aling="left" alt="linux" width="26px" src="./icons/linux.png">
+<img align="left" alt="linux" width="26px" src="./icons/linux.png">
 
 <br></br>
 
