@@ -22,10 +22,11 @@ _Me llamo Maximiliano Cortes y mis amigos me dicen Hoffy, soy de Santiago, Chile
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<br></br>
 
 ## Contactame
-<a href="https://www.linkedin.com/in/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-<a href="mailto:matyo91@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+<a href="https://www.linkedin.com/in/maximiliano-cortes-4b73ba1b8/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+<a href="mailto:max.cortes.f@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoffy0&theme=dark&show_icons=true)
 
