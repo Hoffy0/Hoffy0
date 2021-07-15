@@ -2,7 +2,7 @@
 _Me llamo Maximiliano Cortes y mis amigos me dicen Hoffy, soy de Santiago, Chile. Tengo 23 años. Actualemnte estoy estudindo la carrera de Ing. Informatica en DUOC UC. <br> Mi primer lenguaje de programacion fue C++ en el lejano año 2016. Desde ese momento me entusiasmo la informatica hasta el dia de hoy que busco aprender diferentes tecnologias y lenguajes de forma autodidacta._
 <br>
 
-## Cuando no estoy escribiendo/leyendo, estoy:
+## Cuando no estoy escribiendo/leyendo codigo, estoy:
 - Escuchando musica 
 - Jugando algun FPS para descargar tensiones o algun juego de carreras.
 - Imaginando posibles proyectos.
